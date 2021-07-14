@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(212, 156, 86);
+    color: rgb(124, 28, 28);
+    font-family: monospace
+}
+
+img {
+    height: 500px
+}
+
+span {
+    margin-left: 10px;
+}
+
+.acerca {
+    width: 600px
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
